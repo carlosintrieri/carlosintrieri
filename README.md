@@ -27,7 +27,7 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na
 > 🏫 **Fatec São José dos Campos — Prof. Jessen Vidal**
 > São José dos Campos, SP — Brasil
 
-Apaixonado por tecnologia, construo soluções que funcionam em **múltiplas plataformas** — web, mobile e desktop. Gosto de código limpo, boas práticas e de transformar ideias em produtos reais.
+Aficionado em tecnologia, construo soluções que funcionam em **múltiplas plataformas** — web, mobile e desktop. Gosto de código limpo, boas práticas e de transformar ideias em produtos reais.
 
 <br/>
 
