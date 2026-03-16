@@ -1,73 +1,6 @@
 <div align="center">
 
-<!-- LOGO CURSIVA SVG -->
-<svg width="520" height="130" viewBox="0 0 520 130" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6C63FF"/>
-      <stop offset="50%" style="stop-color:#A855F7"/>
-      <stop offset="100%" style="stop-color:#EC4899"/>
-    </linearGradient>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0D0D1A"/>
-      <stop offset="100%" style="stop-color:#1A0A2E"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="softglow">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <!-- Background pill -->
-  <rect x="0" y="0" width="520" height="130" rx="20" fill="url(#bgGrad)"/>
-
-  <!-- Decorative dots -->
-  <circle cx="30" cy="25" r="3" fill="#6C63FF" opacity="0.5"/>
-  <circle cx="50" cy="15" r="2" fill="#A855F7" opacity="0.4"/>
-  <circle cx="480" cy="110" r="3" fill="#EC4899" opacity="0.5"/>
-  <circle cx="500" cy="95" r="2" fill="#6C63FF" opacity="0.4"/>
-
-  <!-- Subtle arc decoration -->
-  <path d="M 20 100 Q 260 20 500 80" stroke="url(#logoGrad)" stroke-width="0.8" fill="none" opacity="0.25"/>
-
-  <!-- Main cursive name using a script-style path approach -->
-  <!-- "Carlos Intrieri" in elegant script-like text -->
-  <text
-    x="260"
-    y="72"
-    font-family="'Brush Script MT', 'Comic Sans MS', cursive"
-    font-size="58"
-    font-weight="bold"
-    fill="url(#logoGrad)"
-    text-anchor="middle"
-    filter="url(#softglow)"
-    letter-spacing="2"
-  >Carlos Intrieri</text>
-
-  <!-- Underline decorative stroke -->
-  <path d="M 80 88 Q 260 100 440 88" stroke="url(#logoGrad)" stroke-width="1.5" fill="none" opacity="0.6"/>
-
-  <!-- Subtitle -->
-  <text
-    x="260"
-    y="115"
-    font-family="'Segoe UI', monospace"
-    font-size="13"
-    fill="#A0A0C0"
-    text-anchor="middle"
-    letter-spacing="4"
-  >✦ SOFTWARE DEVELOPER ✦</text>
-</svg>
+<img src="./assets/banner_carlos_intrieri.png" alt="Carlos Intrieri" width="820"/>
 
 <br/>
 
@@ -104,20 +37,13 @@ Apaixonado por tecnologia, construo soluções que funcionam em **múltiplas pla
 
 <div align="center">
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 📱 Mobile & Multiplataforma
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🛢️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -130,19 +56,6 @@ Apaixonado por tecnologia, construo soluções que funcionam em **múltiplas pla
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosIntrieri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosIntrieri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=C9D1D9" alt="Top Langs"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosIntrieri&theme=tokyonight&hide_border=true&background=0D0D1A&ring=A855F7&fire=EC4899&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 </div>
 
 ---
