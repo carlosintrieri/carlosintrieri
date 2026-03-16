@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner_carlos_intrieri.png" alt="Carlos Intrieri" width="820"/>
+<img src="https://raw.githubusercontent.com/carlosintrieri/carlosintrieri/main/banner_carlos_intrieri.png" alt="Carlos Intrieri" width="820"/>
 
 <br/>
 
@@ -98,4 +98,4 @@ O curso de **DSM** da Fatec SJC forma profissionais capacitados para desenvolver
 
 *"O código é poesia — cada linha conta uma história."*
 
-</div>
+</div>>
