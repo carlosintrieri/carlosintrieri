@@ -45,7 +45,7 @@ Aficionado em tecnologia, construo soluções que funcionam em **múltiplas plat
 ### 📱 Mobile & Multiplataforma
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🎨 Frontend de Apoio
+### 🎨 Frontend de Apoio em Aprendizado
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
