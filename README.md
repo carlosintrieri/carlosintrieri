@@ -31,7 +31,7 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na
 
 ---
 
-### ⭐ Projeto SideQuest (Principal)
+### ⭐ Projeto SideQuest 
 
 <div align="center">
 
