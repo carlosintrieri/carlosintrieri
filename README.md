@@ -37,87 +37,79 @@ Aficionado em tecnologia, construo soluções que funcionam em **múltiplas plat
 
 ---
 
-### 🔥 Projeto Principal (Foco em Spring Boot)
+### 📚 DSM3
 
 <div align="center">
 
 <a href="https://github.com/carlosintrieri/DSM3-SideQuest-Terceira-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=DSM3-SideQuest-Terceira-API&theme=radical" />
-</a>
-
-</div>
-
-💡 **SideQuest** é meu principal projeto backend, focado em **Java + Spring Boot**, arquitetura de APIs e boas práticas de desenvolvimento.
-
----
-
-## 📚 DSM3 (Mais recente)
-
-<div align="center">
-
-<a href="https://github.com/carlosintrieri/DSM3-SideQuest-Terceira-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=DSM3-SideQuest-Terceira-API&theme=radical" />
+  <img src="https://img.shields.io/badge/SideQuest-DSM3%20API-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 📚 DSM2
+### 📚 DSM2
 
 <div align="center">
 
 <a href="https://github.com/lone-wolf-fatec/EnviroSense">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lone-wolf-fatec&repo=EnviroSense&theme=radical" />
+  <img src="https://img.shields.io/badge/EnviroSense-DSM2%20API-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br/><br/>
+
 <a href="https://github.com/carlosintrieri/DSM2-inv.sort-Segunda-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=DSM2-inv.sort-Segunda-API&theme=radical" />
+  <img src="https://img.shields.io/badge/Inv.sort-DSM2%20API-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 📚 DSM1
+### 📚 DSM1
 
 <div align="center">
 
 <a href="https://github.com/carlosintrieri/DSM1-SmartFarm-Primeira-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=DSM1-SmartFarm-Primeira-API&theme=radical" />
+  <img src="https://img.shields.io/badge/SmartFarm-DSM1%20API-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 🧪 Outros Projetos
+### 🧪 Outros Projetos
 
 <div align="center">
 
 <a href="https://github.com/carlosintrieri/repoweb5">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=repoweb5&theme=radical" />
+  <img src="https://img.shields.io/badge/AutoManager-Spring%20Boot-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br/><br/>
 
 <a href="https://github.com/carlosintrieri/repotec-atividade5">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=repotec-atividade5&theme=radical" />
+  <img src="https://img.shields.io/badge/Atlantis%20Water%20Park-TypeScript-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br/><br/>
+
 <a href="https://github.com/carlosintrieri/Bertoti">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=Bertoti&theme=radical" />
+  <img src="https://img.shields.io/badge/DogAI-IA%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 🌐 PORTFÓLIO (ACESSE AQUI)
+# 🌐 PORTFÓLIO
 
 <div align="center">
 
-## 🚀 Meu portfólio completo de projetos
+## 🚀 Acesse meu portfólio completo
 
-### 👉 https://portfolio-carlos-intrieri.vercel.app
+### 👉 **https://portfolio-carlos-intrieri.vercel.app**
 
 <a href="https://portfolio-carlos-intrieri.vercel.app">
   <img src="https://img.shields.io/badge/PORTFÓLIO-ACESSAR%20SITE-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
