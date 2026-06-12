@@ -24,12 +24,106 @@
 
 Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na
 
-> 🏫 **Fatec São José dos Campos — Prof. Jessen Vidal**
+> 🏫 **Fatec São José dos Campos — Prof. Jessen Vidal**  
 > São José dos Campos, SP — Brasil
 
 Aficionado em tecnologia, construo soluções que funcionam em **múltiplas plataformas** — web, mobile e desktop. Gosto de código limpo, boas práticas e de transformar ideias em produtos reais.
 
 <br/>
+
+---
+
+## 🚀 Projetos Desenvolvidos (APIs • Aprendizagem por Projetos Integrados)
+
+---
+
+### 🔥 Projeto Principal (Foco em Spring Boot)
+
+<div align="center">
+
+<a href="https://github.com/carlosintrieri/DSM3-SideQuest-Terceira-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=DSM3-SideQuest-Terceira-API&theme=radical" />
+</a>
+
+</div>
+
+💡 **SideQuest** é meu principal projeto backend, focado em **Java + Spring Boot**, arquitetura de APIs e boas práticas de desenvolvimento.
+
+---
+
+## 📚 DSM3 (Mais recente)
+
+<div align="center">
+
+<a href="https://github.com/carlosintrieri/DSM3-SideQuest-Terceira-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=DSM3-SideQuest-Terceira-API&theme=radical" />
+</a>
+
+</div>
+
+---
+
+## 📚 DSM2
+
+<div align="center">
+
+<a href="https://github.com/lone-wolf-fatec/EnviroSense">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lone-wolf-fatec&repo=EnviroSense&theme=radical" />
+</a>
+
+<a href="https://github.com/carlosintrieri/DSM2-inv.sort-Segunda-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=DSM2-inv.sort-Segunda-API&theme=radical" />
+</a>
+
+</div>
+
+---
+
+## 📚 DSM1
+
+<div align="center">
+
+<a href="https://github.com/carlosintrieri/DSM1-SmartFarm-Primeira-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=DSM1-SmartFarm-Primeira-API&theme=radical" />
+</a>
+
+</div>
+
+---
+
+## 🧪 Outros Projetos
+
+<div align="center">
+
+<a href="https://github.com/carlosintrieri/repoweb5">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=repoweb5&theme=radical" />
+</a>
+
+<a href="https://github.com/carlosintrieri/repotec-atividade5">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=repotec-atividade5&theme=radical" />
+</a>
+
+<a href="https://github.com/carlosintrieri/Bertoti">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosintrieri&repo=Bertoti&theme=radical" />
+</a>
+
+</div>
+
+---
+
+# 🌐 PORTFÓLIO (ACESSE AQUI)
+
+<div align="center">
+
+## 🚀 Meu portfólio completo de projetos
+
+### 👉 https://portfolio-carlos-intrieri.vercel.app
+
+<a href="https://portfolio-carlos-intrieri.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-ACESSAR%20SITE-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -76,8 +170,6 @@ Aficionado em tecnologia, construo soluções que funcionam em **múltiplas plat
 | 📅 | Em andamento |
 
 </div>
-
-O curso de **DSM** da Fatec SJC forma profissionais capacitados para desenvolver sistemas em múltiplos ambientes — web, mobile e desktop — com foco em metodologias ágeis, banco de dados, programação orientada a objetos e muito mais.
 
 ---
 
