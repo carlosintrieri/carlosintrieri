@@ -4,7 +4,6 @@
 
 <br/>
 
-<!-- Animated typing banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Carlos+Intrieri!+👋;Desenvolvimento+de+Software+Multiplataforma;Fatec+São+José+dos+Campos;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
 
 <br/>
@@ -19,63 +18,85 @@
 
 ## 🎓 Sobre Mim
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na
 
-> 🏫 **Fatec São José dos Campos — Prof. Jessen Vidal**  
+> 🏫 Fatec São José dos Campos — Prof. Jessen Vidal  
 > São José dos Campos, SP — Brasil
 
-Aficionado em tecnologia, construo soluções em **web, mobile e backend**, com foco em código limpo e evolução constante.
+---
 
-<br/>
+## 🚀 Projetos Desenvolvidos
 
 ---
 
-## 🚀 Projetos Desenvolvidos (APIs • Aprendizagem por Projetos Integrados)
-
----
+### ⭐ Projeto SideQuest (Principal)
 
 <div align="center">
 
 <a href="https://github.com/carlosintrieri/DSM3-SideQuest-Terceira-API">
-  <img src="https://img.shields.io/badge/SideQuest%20--%20Spring%20Boot-6C63FF?style=for-the-badge&logo=spring&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/⭐%20PROJETO%20SIDEQUEST%20--%20SPRING%20BOOT-6C63FF?style=for-the-badge&logo=spring&logoColor=white&labelColor=1a1a2e" height="60"/>
 </a>
 
-<br/><br/>
+</div>
+
+---
+
+### 🌿 Projeto EnviroSense
+
+<div align="center">
 
 <a href="https://github.com/lone-wolf-fatec/EnviroSense">
-  <img src="https://img.shields.io/badge/EnviroSense%20--%20Backend%20API-6C63FF?style=for-the-badge&logo=leaflet&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/PROJETO%20ENVIROSENSE-6C63FF?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=1a1a2e" height="60"/>
 </a>
 
-<br/><br/>
+</div>
+
+---
+
+### 📊 Projeto Inv.Sort
+
+<div align="center">
 
 <a href="https://github.com/carlosintrieri/DSM2-inv.sort-Segunda-API">
-  <img src="https://img.shields.io/badge/Inv.sort%20--%20Backend%20API-6C63FF?style=for-the-badge&logo=databricks&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/PROJETO%20INV.SORT-6C63FF?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a2e" height="60"/>
 </a>
 
-<br/><br/>
+</div>
+
+---
+
+### 🌾 Projeto SmartFarm
+
+<div align="center">
 
 <a href="https://github.com/carlosintrieri/DSM1-SmartFarm-Primeira-API">
-  <img src="https://img.shields.io/badge/SmartFarm%20--%20Backend%20API-6C63FF?style=for-the-badge&logo=leaflet&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/PROJETO%20SMARTFARM-6C63FF?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=1a1a2e" height="60"/>
 </a>
 
-<br/><br/>
+</div>
+
+---
+
+### 🧠 Outros Projetos
+
+<div align="center">
 
 <a href="https://github.com/carlosintrieri/repoweb5">
-  <img src="https://img.shields.io/badge/AutoManager%20--%20Spring%20Boot-6C63FF?style=for-the-badge&logo=springboot&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/PROJETO%20AUTOMANAGER-6C63FF?style=for-the-badge&logo=springboot&logoColor=white&labelColor=1a1a2e" height="60"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/carlosintrieri/repotec-atividade5">
-  <img src="https://img.shields.io/badge/Atlantis%20Water%20Park%20--%20TypeScript-6C63FF?style=for-the-badge&logo=typescript&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/PROJETO%20ATLANTIS%20WATER%20PARK-6C63FF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e" height="60"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/carlosintrieri/Bertoti">
-  <img src="https://img.shields.io/badge/DogAI%20--%20IA%20Project-6C63FF?style=for-the-badge&logo=python&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/PROJETO%20DOGAI%20--%20IA-6C63FF?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" height="60"/>
 </a>
 
 </div>
@@ -86,12 +107,12 @@ Aficionado em tecnologia, construo soluções em **web, mobile e backend**, com 
 
 <div align="center">
 
-## 🚀 Acesse meu portfólio completo
+### 🚀 Acesse meu portfólio completo
 
-### 👉 **https://portfolio-carlos-intrieri.vercel.app**
+## 👉 https://portfolio-carlos-intrieri.vercel.app
 
 <a href="https://portfolio-carlos-intrieri.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-ACESSAR%20SITE-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFÓLIO-ACESSAR%20SITE-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" height="55"/>
 </a>
 
 </div>
@@ -102,43 +123,28 @@ Aficionado em tecnologia, construo soluções em **web, mobile e backend**, com 
 
 <div align="center">
 
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge)
 
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 
-### 🛢️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge)
 
-### 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 🏫 Formação Acadêmica
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| 🎓 | **Tecnólogo em Desenvolvimento de Software Multiplataforma** |
-| 🏫 | Fatec São José dos Campos — Prof. Jessen Vidal |
-| 📍 | São José dos Campos — SP, Brasil |
-| 📅 | Em andamento |
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 
 </div>
 
@@ -148,10 +154,7 @@ Aficionado em tecnologia, construo soluções em **web, mobile e backend**, com 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosintrieri)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosIntrieri)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlosintrieri)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosintrieri@gmail.com)
+[LinkedIn](https://linkedin.com/in/carlosintrieri) • [GitHub](https://github.com/CarlosIntrieri) • [Instagram](https://instagram.com/carlosintrieri) • [Email](mailto:carlosintrieri@gmail.com)
 
 </div>
 
@@ -161,7 +164,7 @@ Aficionado em tecnologia, construo soluções em **web, mobile e backend**, com 
 
 ### 💜 Obrigado pela visita!
 
-<img src="https://komarev.com/ghpvc/?username=CarlosIntrieri&style=for-the-badge&color=A855F7&label=Visitantes"/>
+<img src="https://komarev.com/ghpvc/?username=CarlosIntrieri&style=for-the-badge&color=A855F7"/>
 
 *"O código é poesia — cada linha conta uma história."*
 
