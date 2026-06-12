@@ -16,7 +16,7 @@
 
 ---
 
-## 🎓 Sobre Mim
+### 🎓 Sobre Mim
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -27,7 +27,8 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na
 
 ---
 
-## 🚀 Projetos Desenvolvidos
+### 🚀 Projetos Desenvolvidos - APIs (Aprendizagem por Projetos Integrados)
+
 
 ---
 
@@ -103,13 +104,13 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na
 
 ---
 
-## 🌐 PORTFÓLIO
+### 🌐 PORTFÓLIO
 
 <div align="center">
 
 ### 🚀 Acesse meu portfólio completo
 
-## 👉 https://portfolio-carlos-intrieri.vercel.app
+### 👉 https://portfolio-carlos-intrieri.vercel.app
 
 <a href="https://portfolio-carlos-intrieri.vercel.app">
   <img src="https://img.shields.io/badge/PORTFÓLIO-ACESSAR%20SITE-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" height="55"/>
