@@ -84,7 +84,7 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na
 
 <div align="center">
 
-<a href="https://github.com/carlosintrieri/repoweb5">
+<a href="https://github.com/carlosintrieri/AutoManager">
   <img src="https://img.shields.io/badge/PROJETO%20AUTOMANAGER-6C63FF?style=for-the-badge&logo=springboot&logoColor=white&labelColor=1a1a2e" height="60"/>
 </a>
 
